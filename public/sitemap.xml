@@ -3,74 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.textxd.org/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/haohao/</loc>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/matilda/</loc>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>/authors/tony/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yuanshan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/grace/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/george/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/site/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/iris/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/lucy/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/zijun/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/jessie/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/hanzhi/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/yike/</loc>
+  </url>
+  
+  <url>
+    <loc>/project/salon/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/authors/gologorskaya/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/srivastava/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/aaron/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/caroline/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/eshaan/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/haveman/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/jaren/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/violet/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.textxd.org/authors/</loc>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/categories/</loc>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/publication_types/</loc>
+    <loc>/project/exhibition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/film/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.textxd.org/tags/</loc>
+    <loc>/project/retreat/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
     <priority>0</priority>
   </url>
   

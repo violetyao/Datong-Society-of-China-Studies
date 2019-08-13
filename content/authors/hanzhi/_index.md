@@ -13,6 +13,7 @@ superuser: true
 role: 
 
 # Organizations/Affiliations
+weight: 88
 organizations:
 - name: 
   url: ""

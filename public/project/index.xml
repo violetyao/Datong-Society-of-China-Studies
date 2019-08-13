@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Datong</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Datong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic Salons</title>
+      <link>/project/salon/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/salon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exhibitions</title>
+      <link>/project/exhibition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/exhibition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Film Conferences</title>
+      <link>/project/film/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retreats</title>
+      <link>/project/retreat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/retreat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

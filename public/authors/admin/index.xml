@@ -1,57 +1,152 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TextXD</title>
-    <link>http://www.textxd.org/authors/admin/</link>
-    <description>Recent content on TextXD</description>
+    <title>Datong</title>
+    <link>/authors/admin/</link>
+    <description>Recent content on Datong</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
-	    <atom:link href="http://www.textxd.org/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://www.textxd.org/authors/srivastava/</link>
+      <link>/authors/haohao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.textxd.org/authors/srivastava/</guid>
+      <guid>/authors/haohao/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.textxd.org/authors/admin/</link>
+      <link>/authors/matilda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.textxd.org/authors/admin/</guid>
+      <guid>/authors/matilda/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.textxd.org/authors/haveman/</link>
+      <link>/authors/tony/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.textxd.org/authors/haveman/</guid>
+      <guid>/authors/tony/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.textxd.org/authors/jaren/</link>
+      <link>/authors/yuanshan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.textxd.org/authors/jaren/</guid>
+      <guid>/authors/yuanshan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://www.textxd.org/authors/violet/</link>
+      <link>/authors/grace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.textxd.org/authors/violet/</guid>
+      <guid>/authors/grace/</guid>
+      <description>&lt;p&gt;A second year studying Statistics and Computer Science, joined Datong for my interest in city planning and social science in general.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/george/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/george/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/site/</guid>
+      <description>&lt;p&gt;I am a sophomore student and intend to major in Economy/Comparative Literature.  I have a strong passion in Chinese literature, culture, and history, which is the reason for me to join Datong.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/iris/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/iris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lucy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/lucy/</guid>
+      <description>&lt;p&gt;As a freshman at University at California, Berkeley, I am especially enthusiastic in Sociology, Philosophy ,History, Arts, Education and East Asian Studies. And Datong Society is the perfect academic and intellectual community and a closed-bonding family to me.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/ryan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/ryan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/zijun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/zijun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/jessie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/jessie/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a third-year Sociology major. I joined Datong in the first semester of my freshman year. Here I&amp;rsquo;ve met a community of people who share my interest in social science and East Asian societies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/hanzhi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/hanzhi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a third year history and social welfare double major, joined Datong for my interests in Chinese studies and other social topics in general.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/yike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/yike/</guid>
       <description></description>
     </item>
     

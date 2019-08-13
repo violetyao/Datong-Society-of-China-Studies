@@ -13,6 +13,7 @@ superuser: true
 role: Co-President
 
 # Organizations/Affiliations
+weight: 68
 organizations:
 - name: 
   url: ""
